@@ -37,9 +37,6 @@
   "ДифУры": "IbEqual",
   "Теория вероятности": "FasDice",
   "Сириус": "IbStar",
-  "ЦМФ": "FasDollarSign",
-  "Life": "IbHeartbeatMonitor",
   "Templates": "FasStamp",
-  "Вычислительная линейная алгебра": "SiMatrix",
-  "Оценка запасов": "FasGasPump"
+  "Вычислительная линейная алгебра": "SiMatrix"
 }
