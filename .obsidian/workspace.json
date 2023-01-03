@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Скалярное произведение.md",
-                "mode": "preview",
+                "file": "Obsidian/Функциональный анализ/Content/Скалярное произведение.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Скалярное произведение.md",
+                "file": "Obsidian/Функциональный анализ/Content/Скалярное произведение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Скалярное произведение.md",
+                "file": "Obsidian/Функциональный анализ/Content/Скалярное произведение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Скалярное произведение.md"
+                "file": "Obsidian/Функциональный анализ/Content/Скалярное произведение.md"
               }
             }
           }
@@ -162,11 +162,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1be7500262dd0bcc",
+  "active": "16071609773b03fa",
   "lastOpenFiles": [
+    "README.md",
+    "Obsidian/Функциональный анализ/Content/Скалярное произведение.md",
     "Obsidian/Функциональный анализ/Функан Вопросы к экзамену.md",
     "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
-    "Скалярное произведение.md",
     "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
     "Obsidian/Функциональный анализ/Content/Основные определения общей теории меры.md",
     "Obsidian/Функциональный анализ/TableOfContent/Введение в общую теорию меры.md"
