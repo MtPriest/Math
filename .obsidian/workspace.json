@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "4cc538e54b3130e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce215351eac2b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85193e0004d4478b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1be7500262dd0bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Функан Вопросы к экзамену.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9764f89e8fa2c030",
+    "type": "split",
+    "children": [
+      {
+        "id": "e239d18810f83603",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16071609773b03fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7247622edeb50f5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b1700174b0a49fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f84b9a63b74b165",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4209098ad77f885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54e83a9f0e5b562",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ef098ba1b40b2c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e3979dcb5c38a6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70a1a1e46b0c9d53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "85193e0004d4478b",
+  "lastOpenFiles": [
+    "Obsidian/Функциональный анализ/Функан Вопросы к экзамену.md",
+    "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
+    "Скалярное произведение.md",
+    "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
+    "Obsidian/Функциональный анализ/Content/Основные определения общей теории меры.md",
+    "Obsidian/Функциональный анализ/TableOfContent/Введение в общую теорию меры.md"
+  ]
+}
