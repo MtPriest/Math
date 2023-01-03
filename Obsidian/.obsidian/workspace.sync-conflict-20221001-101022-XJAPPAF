@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "a38f5c9f75e6d9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c670a869cca08d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51909a658674a05a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "922fae82aeba7b21",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "056ff780d53d16e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e6427dc3e32c69c4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "99d69a6d15dbaf03",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "8c670a869cca08d4",
+  "lastOpenFiles": [
+    "Obsidian.md"
+  ]
+}

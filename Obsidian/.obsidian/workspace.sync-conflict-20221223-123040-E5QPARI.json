@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "63249fb5ef7e5d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ccada296351741a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7a4d8c29c7376e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a975d928362000",
+    "type": "split",
+    "children": [
+      {
+        "id": "125e428a9e267e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc267ed551af67d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "eb2e553afb270d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.0099296569824
+  },
+  "right": {
+    "id": "9d5ee1f72b528486",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f41a0f0e296de85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4594cdbfe583a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e1627f4fdf9e06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f083dcd712b52ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "714f7844f8a80267",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md"
+              }
+            }
+          },
+          {
+            "id": "8135ab36feddab6b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f7a4d8c29c7376e",
+  "lastOpenFiles": [
+    "Математический анализ/Content/Линейная связность.md",
+    "Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md",
+    "Математический анализ/Content/Окрестность точки.md",
+    "Математический анализ/Content/Подпространство метрического пространства.md",
+    "Математический анализ/Content/Гомеоморфные метрические пространства.md",
+    "Математический анализ/TableOfContent/Раздел математического анализа.md",
+    "Теория вероятности/Content/Формула Бернулли.md",
+    "ДифУры/TableOfContent/Дифференциальные уравнения первого порядка.md",
+    "ДифУры/TableOfContent/Обыкновенные дифференциальные уравнения. Основные понятия. Методы интегрирования некоторых дифферециальных уравнений 1-го порядка.md",
+    "ДифУры/TableOfContent/Раздел дифференциальных уравнений.md"
+  ]
+}

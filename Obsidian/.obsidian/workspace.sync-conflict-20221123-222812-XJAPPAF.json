@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "63249fb5ef7e5d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ccada296351741a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ee411cec563ae8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d9b2be4b1d47913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интеграл 1-го(первого) рода по многообразию.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6d22990612910a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Поверхностный интеграл 1-го(первого) рода.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a975d928362000",
+    "type": "split",
+    "children": [
+      {
+        "id": "125e428a9e267e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc267ed551af67d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "eb2e553afb270d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.0099296569824
+  },
+  "right": {
+    "id": "9d5ee1f72b528486",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f41a0f0e296de85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4594cdbfe583a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Поверхностный интеграл 1-го(первого) рода.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e1627f4fdf9e06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Поверхностный интеграл 1-го(первого) рода.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f083dcd712b52ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "714f7844f8a80267",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Поверхностный интеграл 1-го(первого) рода.md"
+              }
+            }
+          },
+          {
+            "id": "8135ab36feddab6b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6d22990612910a5",
+  "lastOpenFiles": [
+    "Криволинейный интеграл 1-го(первого) рода.md",
+    "Интеграл 1-го(первого) рода по многообразию.md",
+    "Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md",
+    "Мера на многообразии.md",
+    "Математический анализ/TableOfContent/Интегралы зависящие от параметров.md",
+    "Математический анализ/Content/Свойства гомеоморфизмов.md",
+    "Математический анализ/Content/Непрерывность.md",
+    "Математический анализ/Счётно-аддитивная неотрицательная мера на Сигма-алгебре.md",
+    "Математический анализ/Content/Касательное пространство(Многообразие).md",
+    "Вектор.md"
+  ]
+}

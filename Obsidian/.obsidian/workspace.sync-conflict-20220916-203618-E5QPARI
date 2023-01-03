@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "63249fb5ef7e5d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b22f80ced63861d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Корневые/Дифференциальные формы. Интеграл по ориентированному многообразию от дифференциальной формы.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f996accf800c45a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4055253acda4f21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32acf1b552255489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2925d328310a94c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ckex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "63cfc0b42acc5ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f99ca082c55e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b74706be2f07167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Корневые/Дифференциальные формы. Интеграл по ориентированному многообразию от дифференциальной формы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bcc07da876d7f81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Корневые/Дифференциальные формы. Интеграл по ориентированному многообразию от дифференциальной формы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0000bfbe5b3185c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4d2169ec8ef60d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Корневые/Дифференциальные формы. Интеграл по ориентированному многообразию от дифференциальной формы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b22f80ced63861d",
+  "lastOpenFiles": [
+    "Внешнее дифференцирование.md",
+    "Корневые/Дифференциальные формы. Интеграл по ориентированному многообразию от дифференциальной формы.md",
+    "Корневые/Интегралы зависящие от параметров.md",
+    "Корневые/Математический анализ.md",
+    "Уравнения математической физики/Задача о распределении температуры в области с кусочно-гладкой границей.md",
+    "Корневые/Ряды Фурье.md",
+    "Комплексный анализ/Комплексные числа (Операции, Формы).md",
+    "Теория вероятности/Условие образования полной группы событий (Разбиения ПЭИ).md",
+    "Оценка запасов/Пояснительная записка.md",
+    "Вычислительная линейная алгебра/ВЛА умножение матриц с использованием функции dot.md"
+  ]
+}

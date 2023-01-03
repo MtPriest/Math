@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "63249fb5ef7e5d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "79165fdb5fc9d24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64a3cf662ef12f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДифУры/TableOfContent/Системы дифференциальных уравнений.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "74970949ca432208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системы дифференциальных уравнений с параметром.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a975d928362000",
+    "type": "split",
+    "children": [
+      {
+        "id": "125e428a9e267e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc267ed551af67d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "eb2e553afb270d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5047149658203
+  },
+  "right": {
+    "id": "9d5ee1f72b528486",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f41a0f0e296de85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4594cdbfe583a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Системы дифференциальных уравнений с параметром.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e1627f4fdf9e06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Системы дифференциальных уравнений с параметром.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f083dcd712b52ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "714f7844f8a80267",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Системы дифференциальных уравнений с параметром.md"
+              }
+            }
+          },
+          {
+            "id": "8135ab36feddab6b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74970949ca432208",
+  "lastOpenFiles": [
+    "Теорема о непрерывности решения задачи Коши для системы дифференциальных уравнений зависящих от параметра.md",
+    "Системы дифференциальных уравнений с параметром.md",
+    "Решение задачи Коши для системы дифференциальных уравнений зависящих от параметра.md",
+    "ДифУры/TableOfContent/Системы дифференциальных уравнений.md",
+    "ДифУры/TableOfContent/Устойчивость решения.md",
+    "ДифУры/TableOfContent/Основные теоремы об устойчивости.md",
+    "ДифУры/Content/Теорема Четаева о неустойчивости.md",
+    "ДифУры/Content/Теорема Ляпунова об асимптотической устойчивости.md",
+    "ДифУры/Content/Теорема Ляпунова об устойчивости.md",
+    "ДифУры/TableOfContent/Устойчивость по первому приближению.md"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Теория вероятности\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Теория вероятности/ТВ Оглавление\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Математический анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Теория вероятности\"",
+      "color": {
+        "a": 1,
+        "rgb": 6554119
+      }
+    },
+    {
+      "query": "path:\"Комплексный анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Функциональный анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:ДифУры",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Корневые",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.44468787756746,
+  "lineSizeMultiplier": 1.26167705000842,
+  "collapse-forces": false,
+  "centerStrength": 0.426097462746677,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.21723136210430724,
+  "close": false
+}

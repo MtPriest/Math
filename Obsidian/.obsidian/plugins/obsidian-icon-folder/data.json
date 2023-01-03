@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#9f363c",
+    "recentlyUsedIcons": [
+      "FasGasPump",
+      "SiMatrix",
+      "FasStamp",
+      "IbHeartbeatMonitor",
+      "FasDollarSign"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Математический анализ/Content": "IbAcademicBook",
+  "Математический анализ/TableOfContent": "IbDashboard",
+  "Теория вероятности/Content": "IbAcademicBook",
+  "Теория вероятности/TableOfContent": "IbDashboard",
+  "Функциональный анализ/TableOfContent": "IbDashboard",
+  "Функциональный анализ/Content": "IbAcademicBook",
+  "Изображения": "RiImageLine",
+  "Excalidraw": "RiPenNibFill",
+  "Комплексный анализ/Content": "IbAcademicBook",
+  "Комплексный анализ/Table of content": "IbDashboard",
+  "Математический анализ": "RiFunctions",
+  "Комплексный анализ": "RiFunctions",
+  "Функциональный анализ": "RiFunctions",
+  "Уравнения математической физики": "IbEqual",
+  "ДифУры": "IbEqual",
+  "Теория вероятности": "FasDice",
+  "Сириус": "IbStar",
+  "ЦМФ": "FasDollarSign",
+  "Life": "IbHeartbeatMonitor",
+  "Templates": "FasStamp",
+  "Вычислительная линейная алгебра": "SiMatrix",
+  "Оценка запасов": "FasGasPump"
+}

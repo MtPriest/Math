@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "63249fb5ef7e5d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf014fd70e51413",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Теория вероятности/ТВ Оглавление/Геометрическое определение веростности.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a975d928362000",
+    "type": "split",
+    "children": [
+      {
+        "id": "125e428a9e267e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc267ed551af67d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb2e553afb270d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.0099296569824
+  },
+  "right": {
+    "id": "9d5ee1f72b528486",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f41a0f0e296de85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4594cdbfe583a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Теория вероятности/ТВ Оглавление/Геометрическое определение веростности.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e1627f4fdf9e06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Теория вероятности/ТВ Оглавление/Геометрическое определение веростности.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f083dcd712b52ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "714f7844f8a80267",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Теория вероятности/ТВ Оглавление/Геометрическое определение веростности.md"
+              }
+            }
+          },
+          {
+            "id": "8135ab36feddab6b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1bc267ed551af67d",
+  "lastOpenFiles": [
+    "Теория вероятности/ТВ Оглавление/Вероятности случайных событий.md",
+    "Теория вероятности/ТВ Оглавление/Основные понятия комбинаторики.md",
+    "Теория вероятности/Выбор с возвращением.md",
+    "Теория вероятности/Выбор без возвращения.md",
+    "Теория вероятности/Лемма про к групп элементов.md",
+    "Теория вероятности/Лемма правило произведения комбинаторики.md",
+    "Теория вероятности/Свойства вероятностей с точки зрения классического определения.md",
+    "Теория вероятности/ТВ Оглавление/Вероятность случайного события. Классическое определение вероятности.md",
+    "Теория вероятности/Относительная частота и вероятность.md",
+    "Теория вероятности/ТВ Оглавление/Пространство элементарных исходов. Случайные события и операции над ними.md"
+  ]
+}

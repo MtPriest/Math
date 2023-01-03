@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Функциональный анализ\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Математический анализ/TableOfContent\" OR path:\"Функциональный анализ/TableOfContent\" OR path:ДифУры/TableOfContent OR path:\"Теория вероятности/TableOfContent\" OR path:\"Функциональный анализ/TableOfContent\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Математический анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Функциональный анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Комплексный анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Уравнения математической физики\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:ДифУры",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Оценка запасов\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Теория вероятности\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 2.09733333333333,
+  "lineSizeMultiplier": 1.03857102393429,
+  "collapse-forces": false,
+  "centerStrength": 0.534270774448841,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.10096344965200481,
+  "close": false
+}

@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "63249fb5ef7e5d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31422c613c81e8d",
+        "type": "split",
+        "children": [
+          {
+            "id": "cdd5bd1b35a1d756",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "5fa0d43b11e1ff0c"
+          },
+          {
+            "id": "39a108f4cebe5830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория вероятности/ТВ ИДЗ 1.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "5fa0d43b11e1ff0c"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f996accf800c45a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4055253acda4f21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32acf1b552255489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2925d328310a94c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ckex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "right": {
+    "id": "63cfc0b42acc5ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f99ca082c55e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b74706be2f07167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Теория вероятности/ТВ ИДЗ 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bcc07da876d7f81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Теория вероятности/ТВ ИДЗ 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0000bfbe5b3185c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4d2169ec8ef60d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Теория вероятности/ТВ ИДЗ 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cdd5bd1b35a1d756",
+  "lastOpenFiles": [
+    "Математический анализ/Непрерывность.md",
+    "Теория вероятности/ТВ ИДЗ 1.md",
+    "Математический анализ/Основные дифференциальные формы.md",
+    "Корневые/Дифференциальные формы. Интеграл по ориентированному многообразию от дифференциальной формы.md",
+    "Математический анализ/Теорема о критерии равномерной сходимости для НИЗОП.md",
+    "Корневые/Интегралы зависящие от параметров.md",
+    "Математический анализ/Внешнее произведение.md",
+    "Предиктивный анализ регионального электропотребления.md",
+    "Корневые/Раздел математического анализа.md",
+    "Корневые/Вероятности случайных событий.md"
+  ]
+}

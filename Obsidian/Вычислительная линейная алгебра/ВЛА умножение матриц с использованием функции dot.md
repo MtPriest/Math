@@ -1,0 +1,14 @@
+$$\begin{vmatrix}1&2\\3&4\end{vmatrix}
+*\begin{vmatrix}5&6\\7&8\end{vmatrix}=
+\begin{vmatrix}1*5+2*7&1*6+2*8\\3*5+4*7&3*6+4*8\end{vmatrix}
+=
+\begin{vmatrix}
+\begin{vmatrix}1\\3\end{vmatrix}*5+\begin{vmatrix}2\\4\end{vmatrix}*7&
+\begin{vmatrix}1\\3\end{vmatrix}*6+\begin{vmatrix}2\\4\end{vmatrix}*8
+\end{vmatrix}
+=
+\begin{vmatrix}
+\begin{vmatrix}1\\3\end{vmatrix}*5+\begin{vmatrix}2\\4\end{vmatrix}*7&
+\begin{vmatrix}1\\3\end{vmatrix}*6+\begin{vmatrix}2\\4\end{vmatrix}*8
+\end{vmatrix}
+$$
