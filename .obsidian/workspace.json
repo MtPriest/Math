@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Функан Вопросы к экзамену.md",
-                "mode": "source",
+                "file": "Скалярное произведение.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
+                "file": "Скалярное произведение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
+                "file": "Скалярное произведение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md"
+                "file": "Скалярное произведение.md"
               }
             }
           }
@@ -161,7 +162,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "85193e0004d4478b",
+  "active": "1be7500262dd0bcc",
   "lastOpenFiles": [
     "Obsidian/Функциональный анализ/Функан Вопросы к экзамену.md",
     "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
