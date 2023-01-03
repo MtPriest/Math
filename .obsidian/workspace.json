@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Свойства скалярного произведения.md",
+                "file": "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "248dceb42ca1b101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Свойства скалярного произведения.md",
+                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Свойства скалярного произведения.md",
+                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Свойства скалярного произведения.md"
+                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md"
               }
             }
           }
@@ -148,17 +162,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "939335154a0e7389",
+  "active": "248dceb42ca1b101",
   "lastOpenFiles": [
+    "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
+    "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
+    "Obsidian/Функциональный анализ/Content/Проекторы в гильбертовых пространствах.md",
+    "Obsidian/Функциональный анализ/Content/Вполне непрерывные операторы в гильбертовом пространстве.md",
+    "Obsidian/Функциональный анализ/Content/Свойства скалярного произведения.md",
     "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
     "Obsidian/Функциональный анализ/Content/Унитарное пространство.md",
-    "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
     "Obsidian/Функциональный анализ/Content/Сопряжённые и самосопряжённые операторы в гильбертовом пространстве.md",
     "Obsidian/Функциональный анализ/Content/Скалярное произведение.md",
-    "Obsidian/Функциональный анализ/Content/Вполне непрерывные операторы в гильбертовом пространстве.md",
-    "Obsidian/Функциональный анализ/Content/Сопряжённые операторы.md",
-    "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
-    "Obsidian/Функциональный анализ/Content/Базисы и ряды Фурье в Гильбертовом пространстве.md",
-    "[[Скалярное.md"
+    "Obsidian/Функциональный анализ/Content/Сопряжённые операторы.md"
   ]
 }
