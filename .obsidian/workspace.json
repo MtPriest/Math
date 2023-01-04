@@ -4,62 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc49f10d8c09662",
+        "id": "718ec020357076ac",
         "type": "tabs",
         "children": [
           {
-            "id": "82af5dc3a5573235",
+            "id": "d76f7aaf32ea3a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Основные определения для понимания нормированныз пространств.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "74ecc35de5eb312c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Вспомогательные неравенства функционального анализа.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b264ca65ab30315d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0e55d3269e62205a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "601dbc14d394a5ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Прстранство линейных ограниченных операторов.md",
+                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -116,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8f84b9a63b74b165",
@@ -132,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
+                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
+                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md"
+                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md"
               }
             }
           }
@@ -194,17 +148,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b264ca65ab30315d",
+  "active": "d76f7aaf32ea3a65",
   "lastOpenFiles": [
-    "Obsidian/Функциональный анализ/Content/Вспомогательные неравенства функционального анализа.md",
-    "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
     "Obsidian/Функциональный анализ/Content/Основные определения для понимания нормированныз пространств.md",
-    "Obsidian/Функциональный анализ/Content/Сепарабельность.md",
-    "Obsidian/Функциональный анализ/Content/Примеры нормированных пространств.md",
-    "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
-    "Obsidian/Функциональный анализ/TableOfContent/Некоторые функции пространства C(K).md",
-    "Obsidian/Функциональный анализ/Content/Общий вид функционала на пространстве $C[a;b]$.md",
-    "Obsidian/Функциональный анализ/Content/Прстранство линейных ограниченных операторов.md",
-    "Obsidian/Функциональный анализ/Content/Линейное нормированное пространство (ЛНП).md"
+    "Obsidian/Функциональный анализ/Content/Фундаментальная последовательность в ЛНП.md",
+    "Подпространство нормировcанного прострнства.md",
+    "Obsidian/Функциональный анализ/Content/Свойства нормы.md",
+    "Obsidian/Функциональный анализ/Content/Линейное нормированное пространство (ЛНП).md",
+    "Obsidian/Функциональный анализ/Content/Линейное (векторное) пространство.md",
+    "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
+    "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
+    "Obsidian/Функциональный анализ/Content/Пространство линейных ограниченных операторов.md",
+    "Ф. Рисс.md"
   ]
 }
