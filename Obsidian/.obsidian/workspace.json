@@ -6,7 +6,7 @@
       {
         "id": "34c79d279af131d6",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 50,
         "children": [
           {
             "id": "6102fc8de8920bc1",
@@ -14,12 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функциональный анализ/TableOfContent/Нормированные пространства.md",
+                "file": "Функциональный анализ/Content/Линейное (векторное) пространство.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            }
+            },
+            "group": "ff9dbaca82a2b3db"
           },
           {
             "id": "f10697c3a7cbbddb",
@@ -33,6 +34,28 @@
                 "source": true
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "187f946cde3dec28",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "f947ac213eff7a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Функциональный анализ/Content/Линейное (векторное) пространство.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "ff9dbaca82a2b3db"
           }
         ]
       }
@@ -92,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функциональный анализ/TableOfContent/Нормированные пространства.md",
+                "file": "Функциональный анализ/Функан Вопросы к экзамену.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Функциональный анализ/TableOfContent/Нормированные пространства.md",
+                "file": "Функциональный анализ/Функан Вопросы к экзамену.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Функциональный анализ/TableOfContent/Нормированные пространства.md"
+                "file": "Функциональный анализ/Функан Вопросы к экзамену.md"
               }
             }
           },
@@ -151,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6102fc8de8920bc1",
+  "active": "f10697c3a7cbbddb",
   "lastOpenFiles": [
-    "Функциональный анализ/TableOfContent/Раздел функционального анализа.md",
+    "Функциональный анализ/Content/Линейное (векторное) пространство.md",
     "Функциональный анализ/Content/Основные определения для понимания нормированныз пространств.md",
     "Функциональный анализ/TableOfContent/Нормированные пространства.md",
+    "Функциональный анализ/TableOfContent/Раздел функционального анализа.md",
     "Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
     "Функциональный анализ/Content/Сопряжённые и самосопряжённые операторы в гильбертовом пространстве.md",
     "Функциональный анализ/Content/Общий вид функционала в гильбертовом пространстве.md",
     "Функциональный анализ/Content/Теорема о наилучшем приближении. Теорема о проекции.md",
     "Следствие 3 из теоремы 2.6 о проекции.md",
-    "Следствие 2 из теоремы 2.6 о проекции.md",
-    "Функциональный анализ/Функан Вопросы к экзамену.md"
+    "Следствие 2 из теоремы 2.6 о проекции.md"
   ]
 }
