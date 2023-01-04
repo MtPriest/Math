@@ -8,25 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "939335154a0e7389",
+            "id": "82af5dc3a5573235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
-                "mode": "preview",
+                "file": "Obsidian/Функциональный анализ/Content/Основные определения для понимания нормированныз пространств.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "248dceb42ca1b101",
+            "id": "74ecc35de5eb312c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
+                "file": "Obsidian/Функциональный анализ/Content/Вспомогательные неравенства функционального анализа.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b264ca65ab30315d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +47,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "0e55d3269e62205a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601dbc14d394a5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Функциональный анализ/Content/Прстранство линейных ограниченных операторов.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
+                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
+                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md"
+                "file": "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md"
               }
             }
           }
@@ -162,17 +194,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "248dceb42ca1b101",
+  "active": "b264ca65ab30315d",
   "lastOpenFiles": [
+    "Obsidian/Функциональный анализ/Content/Вспомогательные неравенства функционального анализа.md",
+    "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
+    "Obsidian/Функциональный анализ/Content/Основные определения для понимания нормированныз пространств.md",
+    "Obsidian/Функциональный анализ/Content/Сепарабельность.md",
+    "Obsidian/Функциональный анализ/Content/Примеры нормированных пространств.md",
     "Obsidian/Функциональный анализ/TableOfContent/Гильбертовы пространства.md",
-    "Obsidian/Функциональный анализ/Content/Изоморфизм всех сепарабельных гильбертовых пространств.md",
-    "Obsidian/Функциональный анализ/Content/Проекторы в гильбертовых пространствах.md",
-    "Obsidian/Функциональный анализ/Content/Вполне непрерывные операторы в гильбертовом пространстве.md",
-    "Obsidian/Функциональный анализ/Content/Свойства скалярного произведения.md",
-    "Obsidian/Функциональный анализ/Content/Основные определения и свойства гильбертовых пространств.md",
-    "Obsidian/Функциональный анализ/Content/Унитарное пространство.md",
-    "Obsidian/Функциональный анализ/Content/Сопряжённые и самосопряжённые операторы в гильбертовом пространстве.md",
-    "Obsidian/Функциональный анализ/Content/Скалярное произведение.md",
-    "Obsidian/Функциональный анализ/Content/Сопряжённые операторы.md"
+    "Obsidian/Функциональный анализ/TableOfContent/Некоторые функции пространства C(K).md",
+    "Obsidian/Функциональный анализ/Content/Общий вид функционала на пространстве $C[a;b]$.md",
+    "Obsidian/Функциональный анализ/Content/Прстранство линейных ограниченных операторов.md",
+    "Obsidian/Функциональный анализ/Content/Линейное нормированное пространство (ЛНП).md"
   ]
 }
