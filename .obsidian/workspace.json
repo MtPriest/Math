@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
+                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
+                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
+                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md"
+                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d76f7aaf32ea3a65",
+  "active": "16071609773b03fa",
   "lastOpenFiles": [
-    "Obsidian/Функциональный анализ/Content/Основные определения для понимания нормированныз пространств.md",
-    "Obsidian/Функциональный анализ/Content/Фундаментальная последовательность в ЛНП.md",
-    "Подпространство нормировcанного прострнства.md",
-    "Obsidian/Функциональный анализ/Content/Свойства нормы.md",
-    "Obsidian/Функциональный анализ/Content/Линейное нормированное пространство (ЛНП).md",
-    "Obsidian/Функциональный анализ/Content/Линейное (векторное) пространство.md",
-    "Obsidian/Функциональный анализ/Content/Подпространство нормированного прострнства.md",
+    "Obsidian/Функциональный анализ/Content/Лемма о почти перпендикуляре.md",
     "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
-    "Obsidian/Функциональный анализ/Content/Пространство линейных ограниченных операторов.md",
-    "Ф. Рисс.md"
+    "Obsidian/Функциональный анализ/Content/Геометрическая форма теоремы Хана-Банаха.md",
+    "Obsidian/Функциональный анализ/Content/Теорема Хана-Банаха.md",
+    "Obsidian/Функциональный анализ/Content/Третья теорема Хана-Банаха.md",
+    "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
+    "Obsidian/Функциональный анализ/Content/Первая теорема Хана-Банаха.md",
+    "Obsidian/Функциональный анализ/Content/Лемма Цорна.md",
+    "Obsidian/Функциональный анализ/Content/Полунорма.md",
+    "Obsidian/Функциональный анализ/Content/Выпуклый функционал.md"
   ]
 }
