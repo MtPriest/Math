@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Obsidian/Функциональный анализ\"",
+  "search": "path:\"Obsidian/Математический анализ\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Obsidian/Функциональный анализ/TableOfContent\"",
+      "query": "path:\"Obsidian/Математический анализ/TableOfContent\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Obsidian/Функциональный анализ\"",
+      "query": "path:\"Obsidian/Математический анализ/Content\"",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3496597027216628,
+  "scale": 0.5077781344864428,
   "close": false
 }
