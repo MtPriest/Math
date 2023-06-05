@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md",
+                "file": "Без названия 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md",
+                "file": "Без названия 1.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8f84b9a63b74b165",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
+                "file": "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
+                "file": "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md"
+                "file": "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md"
               }
             }
           },
@@ -217,47 +216,33 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Билеты на тройку комиссия Матан.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "6185a7a4347e747b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
+                    "file": "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
                   }
                 },
-                "group": "3b11e9f0ceec2333"
+                "group": "f081018cd1865ed1"
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "a3f41d127093f35c",
+            "id": "4e92637f2ad18f63",
             "type": "tabs",
             "children": [
               {
-                "id": "fec0ead18d71e6e1",
+                "id": "2d8fe3da86e299e3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
-                    "mode": "preview",
+                    "file": "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
+                    "mode": "source",
                     "backlinks": true,
                     "source": true
                   }
                 },
-                "group": "3b11e9f0ceec2333"
+                "group": "f081018cd1865ed1"
               }
             ]
           }
@@ -272,8 +257,27 @@
       }
     ]
   },
-  "active": "6185a7a4347e747b",
+  "active": "dccf84d2f5bf0ea2",
   "lastOpenFiles": [
+    "Билеты на тройку комиссия Матан.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
+    "Obsidian/Математический анализ/Content/Несобственный интеграл зависящий от параметра (НИЗОП).md",
+    "Obsidian/Изображения/Untitled (22).png",
+    "Obsidian/Изображения/Untitled (21).png",
+    "Obsidian/Изображения/Untitled (20).png",
+    "Obsidian/Изображения/Untitled (19).png",
+    "Obsidian/Изображения/Untitled (18).png",
+    "Obsidian/Изображения/Pasted image 20230606015842.png",
+    "Obsidian/Изображения/Pasted image 20230606015252.png",
+    "Obsidian/Изображения/Pasted image 20230606015127.png",
+    "Obsidian/Изображения/Pasted image 20230606013423.png",
+    "Obsidian/Изображения/Pasted image 20230606013345.png",
+    "Билеты на тройку комиссия Матан.pdf",
+    "Переход к сферическим координатам.md",
+    "Obsidian/Математический анализ/Content/Теорема формула Гаусса-Остроградского.md",
+    "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
     "Obsidian/Теорема Бэра о категории.md",
     "Obsidian/Теорема Банаха-Штейнгауза.md",
     "Obsidian/Следствие из теоремы Банаха-Штейнгауза.md",
@@ -281,33 +285,17 @@
     "Obsidian/Нигде не плотное множество.md",
     "Obsidian/Множество первой категории.md",
     "Obsidian/Множество второй категории.md",
-    "Obsidian/Математический анализ/Content/Теорема формула Гаусса-Остроградского.md",
-    "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
-    "Билеты на тройку комиссия Матан.md",
-    "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
     "Obsidian/Математический анализ/Content/Доказательство теоремы о формуле Грина.md",
-    "Без названия 1.md",
-    "Obsidian/Изображения/Pasted image 20220924161246.png",
-    "Obsidian/Изображения/Pasted image 20220925192753.png",
     "Obsidian/Математический анализ/Content/Теорема о формуле Грина.md",
     "Obsidian/Математический анализ/Content/Локальная карта многообразия(Карта).md",
     "Атлас.md",
     "Obsidian/Математический анализ/Content/Многообразие без края(Поверхность рахмерности k).md",
     "Формула Грина.md",
-    "Pasted image 20230604030512.png",
     "Obsidian/Математический анализ/TableOfContent/Интеграл 1 рода по многообразиям.md",
     "Obsidian/Математический анализ/Content/Поверхностный интеграл второго рода.md",
-    "Pasted image 20230604025940.png",
-    "Obsidian/Изображения/Pasted image 20220924160717.png",
     "Матрица Грамма.md",
     "Obsidian/Математический анализ/Content/Гладкая локальная карта, атлас и многообразие.md",
     "Теорема о том что компактное многообразие имеет конечный атлас.md",
-    "Докозательство теоремы о том что компактное многообразие имеет конечный атлас.md",
-    "Pasted image 20230603232323.png",
-    "Ротор.md",
-    "Градиент.md",
-    "Obsidian/Изображения/Pasted image 20220925194708.png",
-    "Obsidian/Изображения/Pasted image 20220925194643.png",
     "Кр1 тч Попов  М. А..pdf"
   ]
 }
