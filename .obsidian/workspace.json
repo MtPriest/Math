@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2edcbdb8c59211fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "520d8f2f4898b46e"
-          },
-          {
             "id": "d7018fb9ddd66b3f",
             "type": "leaf",
             "state": {
@@ -33,26 +19,6 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2a363c50d6695644",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e91887d5548f174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 1.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "520d8f2f4898b46e"
           }
         ]
       }
@@ -128,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md",
+                "file": "Гладкая карта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md",
+                "file": "Гладкая карта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md"
+                "file": "Гладкая карта.md"
               }
             }
           },
@@ -198,70 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "5e438e81dad4189e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4c5b9383294482c8",
-        "type": "window",
-        "children": [
-          {
-            "id": "f8e34a0c237d80c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dccf84d2f5bf0ea2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Билеты на тройку комиссия Матан.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                },
-                "group": "f081018cd1865ed1"
-              }
-            ]
-          },
-          {
-            "id": "4e92637f2ad18f63",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2d8fe3da86e299e3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Билеты на тройку комиссия Матан.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                },
-                "group": "f081018cd1865ed1"
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -392,
-        "y": -138,
-        "width": 610,
-        "height": 606,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2d8fe3da86e299e3",
+  "active": "d7018fb9ddd66b3f",
   "lastOpenFiles": [
-    "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
     "Билеты на тройку комиссия Матан.md",
+    "Гладкая карта.md",
     "Без названия 1.md",
+    "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
     "Без названия.md",
     "Obsidian/Математический анализ/Content/Несобственный интеграл зависящий от параметра (НИЗОП).md",
     "Obsidian/Изображения/Untitled (22).png",
@@ -295,7 +203,6 @@
     "Obsidian/Математический анализ/Content/Поверхностный интеграл второго рода.md",
     "Матрица Грамма.md",
     "Obsidian/Математический анализ/Content/Гладкая локальная карта, атлас и многообразие.md",
-    "Теорема о том что компактное многообразие имеет конечный атлас.md",
     "Кр1 тч Попов  М. А..pdf"
   ]
 }
