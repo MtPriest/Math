@@ -17,6 +17,8 @@
   "autoEncloseSup_toggle": true,
   "autoEncloseSub_toggle": true,
   "encloseSelection_toggle": true,
+  "autoGreekCommandMathMode_toggle": true,
   "customShorthand_toggle": true,
-  "customShorthand_parameter": "vp:\\varphi;\nol:\\overline{#cursor}#tab;\nbi:\\binom{#cursor}{#tab};\nsq:\\sqrt{};\nbb:\\mathbb{};\nbf:\\mathbf{};\nte:\\text{};\ninf:\\infty;\ncd:\\cdot;\nqu:\\quad;\nti:\\times;\nal:\\alpha;\nbe:\\beta;\nga:\\gamma;\nGa:\\Gamma;\nde:\\delta;\nDe:\\Delta;\nep:\\epsilon;\nze:\\zeta;\net:\\eta;\nth:\\theta;\nTh:\\Theta;\nio:\\iota;\nka:\\kappa;\nla:\\lambda;\nLa:\\Lambda;\nmu:\\mu;\nnu:\\nu;\nxi:\\xi;\nXi:\\Xi;\npi:\\pi;\nPi:\\Pi;\nrh:\\rho;\nsi:\\sigma;\nSi:\\Sigma;\nta:\\tau;\nup:\\upsilon;\nUp:\\Upsilon;\nph:\\phi;\nPh:\\Phi;\nch:\\chi;\nps:\\psi;\nPs:\\Psi;\nom:\\omega;\nOm:\\Omega;\nsub:\\subset;\nsup:\\supset;"
+  "useTabtoComplete_toggle": false,
+  "customShorthand_parameter": "vp:\\varphi;\nol:\\overline{#cursor}#tab;\nbi:\\binom{#cursor}{#tab};\nsq:\\sqrt{};\nbb:\\mathbb{};\nbf:\\mathbf{};\nte:\\text{};\ninf:\\infty;\ncd:\\cdot;\nqu:\\quad;\nti:\\times;\nal:\\alpha;\nbe:\\beta;\nga:\\gamma;\nGa:\\Gamma;\nde:\\delta;\nDe:\\Delta;\nep:\\epsilon;\nze:\\zeta;\net:\\eta;\nth:\\theta;\nTh:\\Theta;\nio:\\iota;\nka:\\kappa;\nla:\\lambda;\nLa:\\Lambda;\nmu:\\mu;\nnu:\\nu;\nxi:\\xi;\nXi:\\Xi;\npi:\\pi;\nPi:\\Pi;\nrh:\\rho;\nsi:\\sigma;\nSi:\\Sigma;\nta:\\tau;\nup:\\upsilon;\nUp:\\Upsilon;\nph:\\phi;\nPh:\\Phi;\nch:\\chi;\nps:\\psi;\nPs:\\Psi;\nom:\\omega;\nOm:\\Omega;\nsub:\\subset;\nsup:\\supset;\n\\R:\\Bbb R;\ndim:\\dim;\npt:\\partial;\novrl:\\overline;\novrln:\\overline{#cursor};\nslsh:\\backslash;\nint:\\int\\limits_;"
 }

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "718ec020357076ac",
+        "id": "9161b507c054112d",
         "type": "tabs",
         "children": [
           {
-            "id": "d76f7aaf32ea3a65",
+            "id": "d7018fb9ddd66b3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
-                "mode": "preview",
+                "file": "Гладкая карта.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -65,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "df7d52e1a14f5aa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
+                "file": "Билеты на тройку комиссия Матан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
+                "file": "Билеты на тройку комиссия Матан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,39 +134,113 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md"
+                "file": "Билеты на тройку комиссия Матан.md"
               }
+            }
+          },
+          {
+            "id": "fd94b613c01110e2",
+            "type": "leaf",
+            "state": {
+              "type": "gptModelSettings",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16071609773b03fa",
+  "floating": {
+    "id": "d21d402e281cdaba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "751d1ca1366fe12b",
+        "type": "window",
+        "children": [
+          {
+            "id": "b36c7fb038a131c3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3834d9042dbee1c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Билеты на тройку комиссия Матан.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 356,
+        "y": 73,
+        "width": 1026,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3834d9042dbee1c2",
   "lastOpenFiles": [
-    "Obsidian/Функциональный анализ/Content/Лемма о почти перпендикуляре.md",
-    "Obsidian/Функциональный анализ/TableOfContent/Нормированные пространства.md",
-    "Obsidian/Функциональный анализ/Content/Геометрическая форма теоремы Хана-Банаха.md",
-    "Obsidian/Функциональный анализ/Content/Теорема Хана-Банаха.md",
-    "Obsidian/Функциональный анализ/Content/Третья теорема Хана-Банаха.md",
-    "Obsidian/Функциональный анализ/Content/Вторая теорема Хана-Банаха.md",
-    "Obsidian/Функциональный анализ/Content/Первая теорема Хана-Банаха.md",
-    "Obsidian/Функциональный анализ/Content/Лемма Цорна.md",
-    "Obsidian/Функциональный анализ/Content/Полунорма.md",
-    "Obsidian/Функциональный анализ/Content/Выпуклый функционал.md"
+    "Obsidian/Изображения/Pasted image 20230606093809.png",
+    "Obsidian/Математический анализ/Content/Теорема формула Гаусса-Остроградского.md",
+    "Билеты на тройку комиссия Матан.md",
+    "Переход к цилиндрическим координатам.md",
+    "Открытое множество.md",
+    "Ориентирующий атлас.md",
+    "Ориентация карты.md",
+    "Компакт(Компактное множество).md",
+    "Дивергенция.md",
+    "Векторное поле.md",
+    "Гладкая карта.md",
+    "Без названия 1.md",
+    "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
+    "Без названия.md",
+    "Obsidian/Математический анализ/Content/Несобственный интеграл зависящий от параметра (НИЗОП).md",
+    "Obsidian/Изображения/Untitled (22).png",
+    "Obsidian/Изображения/Untitled (21).png",
+    "Obsidian/Изображения/Untitled (20).png",
+    "Obsidian/Изображения/Untitled (19).png",
+    "Obsidian/Изображения/Untitled (18).png",
+    "Obsidian/Изображения/Pasted image 20230606015842.png",
+    "Obsidian/Изображения/Pasted image 20230606015252.png",
+    "Obsidian/Изображения/Pasted image 20230606015127.png",
+    "Obsidian/Изображения/Pasted image 20230606013423.png",
+    "Obsidian/Изображения/Pasted image 20230606013345.png",
+    "Билеты на тройку комиссия Матан.pdf",
+    "Переход к сферическим координатам.md",
+    "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
+    "Obsidian/Теорема Бэра о категории.md",
+    "Obsidian/Теорема Банаха-Штейнгауза.md",
+    "Obsidian/Следствие из теоремы Банаха-Штейнгауза.md",
+    "Obsidian/Проба Notion AI.md",
+    "Obsidian/Нигде не плотное множество.md",
+    "Obsidian/Множество первой категории.md",
+    "Obsidian/Множество второй категории.md",
+    "Obsidian/Математический анализ/Content/Доказательство теоремы о формуле Грина.md",
+    "Obsidian/Математический анализ/Content/Теорема о формуле Грина.md",
+    "Кр1 тч Попов  М. А..pdf"
   ]
 }

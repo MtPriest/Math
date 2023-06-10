@@ -1,3 +1,11 @@
 {
-  "livePreview": false
+  "livePreview": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
 }

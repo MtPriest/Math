@@ -1,12 +1,4 @@
 {
-  "text-snippets-obsidian:text-snippets": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
-    }
-  ],
   "editor:insert-link": [],
   "editor:insert-wikilink": [
     {
@@ -14,6 +6,24 @@
         "Mod"
       ],
       "key": "K"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "workspace:next-tab": [],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
     }
   ]
 }

@@ -1,3 +1,7 @@
 
 *.json
 *.json
+.obsidian/workspace.json
+*.json
+*.json
+*.json
