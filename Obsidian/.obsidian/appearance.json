@@ -1,7 +1,7 @@
 {
   "cssTheme": "Agora",
   "theme": "obsidian",
-  "baseFontSize": 16,
-  "translucency": true,
+  "baseFontSize": 18,
+  "translucency": false,
   "accentColor": "#863737"
 }
