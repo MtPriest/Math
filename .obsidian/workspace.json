@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Билеты на тройку комиссия Матан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Билеты на тройку комиссия Матан.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,49 +160,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d21d402e281cdaba",
-    "type": "floating",
-    "children": [
-      {
-        "id": "751d1ca1366fe12b",
-        "type": "window",
-        "children": [
-          {
-            "id": "b36c7fb038a131c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3834d9042dbee1c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Билеты на тройку комиссия Матан.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 356,
-        "y": 73,
-        "width": 1026,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3834d9042dbee1c2",
+  "active": "16071609773b03fa",
   "lastOpenFiles": [
+    "Гладкая карта.md",
+    "Лягушка.md",
+    "Билеты на тройку комиссия Матан.md",
+    "Obsidian/Математический анализ/Content/Якобиан.md",
+    "Переход к полярным координатам.md",
     "Obsidian/Изображения/Pasted image 20230606093809.png",
     "Obsidian/Математический анализ/Content/Теорема формула Гаусса-Остроградского.md",
-    "Билеты на тройку комиссия Матан.md",
     "Переход к цилиндрическим координатам.md",
     "Открытое множество.md",
     "Ориентирующий атлас.md",
@@ -214,10 +176,8 @@
     "Компакт(Компактное множество).md",
     "Дивергенция.md",
     "Векторное поле.md",
-    "Гладкая карта.md",
     "Без названия 1.md",
     "Obsidian/Математический анализ/Content/Криволинейный интеграл 2-го рода.md",
-    "Без названия.md",
     "Obsidian/Математический анализ/Content/Несобственный интеграл зависящий от параметра (НИЗОП).md",
     "Obsidian/Изображения/Untitled (22).png",
     "Obsidian/Изображения/Untitled (21).png",
@@ -228,7 +188,6 @@
     "Obsidian/Изображения/Pasted image 20230606015252.png",
     "Obsidian/Изображения/Pasted image 20230606015127.png",
     "Obsidian/Изображения/Pasted image 20230606013423.png",
-    "Obsidian/Изображения/Pasted image 20230606013345.png",
     "Билеты на тройку комиссия Матан.pdf",
     "Переход к сферическим координатам.md",
     "Obsidian/Математический анализ/Content/Доказательство формулы Гауса-Остроградского.md",
@@ -240,7 +199,6 @@
     "Obsidian/Множество первой категории.md",
     "Obsidian/Множество второй категории.md",
     "Obsidian/Математический анализ/Content/Доказательство теоремы о формуле Грина.md",
-    "Obsidian/Математический анализ/Content/Теорема о формуле Грина.md",
     "Кр1 тч Попов  М. А..pdf"
   ]
 }
