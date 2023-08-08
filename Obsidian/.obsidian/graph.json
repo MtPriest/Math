@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Основы механики сплошных сред\"",
+  "search": "path:\"Теория вероятности\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.39748104882295604,
+  "scale": 0.3407756183396066,
   "close": false
 }

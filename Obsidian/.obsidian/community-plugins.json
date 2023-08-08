@@ -1,10 +1,5 @@
 [
   "quick-latex",
-  "obsidian-spaced-repetition",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-icon-folder",
-  "multi-column-markdown",
-  "text-snippets-obsidian"
   "text-snippets-obsidian",
-  "obsidian-excalidraw-plugin"
+  "cm-editor-syntax-highlight-obsidian"
 ]
