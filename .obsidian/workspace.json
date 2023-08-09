@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2cc6475732c9ad5a",
+        "id": "077ca615c37da0c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1b584eccb204c832",
+            "id": "30a10467c00c2113",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md"
+              }
             }
           },
           {
@@ -155,22 +164,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b584eccb204c832",
+  "active": "30a10467c00c2113",
   "lastOpenFiles": [
+    "Obsidian/Изображения/Pasted image 20230809172057.png",
+    "Obsidian/Изображения/Pasted image 20230809172049.png",
+    "Obsidian/Изображения/Pasted image 20230809171237.png",
+    "Obsidian/Изображения/Pasted image 20230809171220.png",
+    "Obsidian/Изображения/Pasted image 20230809170517.png",
+    "Obsidian/Изображения/Pasted image 20230809170449.png",
+    "Obsidian/Изображения/Pasted image 20230809134711.png",
+    "Obsidian/Изображения/Pasted image 20230809133631.png",
+    "Obsidian/§7. Условная вероятность и простейшие основные формулы.md",
+    "Obsidian/§1. Интуитивные представления о случайных событиях.md",
     "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md",
-    "Obsidian/§1 Интуитивные представления о случайных событиях.md",
-    "Obsidian/Изображения/Pasted image 20230808231528.png",
-    "Obsidian/Изображения/Pasted image 20230808231429.png",
+    "Obsidian/Теория вероятности/Коллоквиум 1 тервер.md",
+    "Pasted image 20230809164705.png",
+    "Pasted image 20230809164556.png",
+    "Pasted image 20230809162732.png",
+    "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
     "Obsidian/Глава 1. Случайные события и их вероятности.md",
     "Obsidian/§5. О статистической оценке  неизвестной вероятности.md",
-    "Obsidian/§1. Интуитивные представления о случайных событиях.md",
+    "Obsidian/§1 Интуитивные представления о случайных событиях.md",
     "Без названия 1.md",
     "Obsidian/Глава 1 Случайные события и их вероятности.md",
     "Без названия.md",
     "Без названия 4.md",
     "Без названия 3.md",
     "Без названия 2.md",
-    "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
     "Obsidian/Теория вероятности/TableOfContent/Последовательности испытаний.md",
     "Obsidian/Теория вероятности/TableOfContent/Системы случайных велични.md",
     "Obsidian/Теория вероятности/TableOfContent/Геометрическое определение веростности.md",
@@ -183,17 +203,7 @@
     "Открытое множество.md",
     "Дивергенция.md",
     "Градиент.md",
-    "Гладкая карта.md",
-    "Атлас.md",
     "Кр1 тч Попов  М. А..pdf",
-    "Теория вероятностей",
-    "Pasted image 20230603232323.png",
-    "Obsidian/Изображения/Pasted image 20230606093809.png",
-    "Obsidian/Изображения/Untitled (22).png",
-    "Obsidian/Изображения/Untitled (21).png",
-    "Obsidian/Изображения/Untitled (20).png",
-    "Obsidian/Изображения/Untitled (19).png",
-    "Obsidian/Изображения/Untitled (18).png",
-    "Obsidian/Изображения/Pasted image 20230606015842.png"
+    "Теория вероятностей"
   ]
 }
