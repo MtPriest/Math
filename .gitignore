@@ -6,4 +6,8 @@
 *.json
 *.json
 Obsidian/.obsidian/workspace.json
+<<<<<<< HEAD
+=======
+.obsidian/core-plugins-migration.json
+>>>>>>> ad21a48ad5aea88dda566dec374d912bd977c2aa
 *.json
