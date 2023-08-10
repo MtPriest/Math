@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c77cde25b9dc2163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8f84b9a63b74b165",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
+                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
+                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md"
+                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md"
               }
             }
           },
@@ -179,11 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b978043551877c2",
+  "active": "c77cde25b9dc2163",
   "lastOpenFiles": [
+    "Pasted image 20230810150331.png",
+    "Pasted image 20230810150248.png",
+    "Pasted image 20230810150152.png",
+    "Pasted image 20230810150112.png",
+    "Pasted image 20230810150016.png",
+    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
+    "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
     "Obsidian/Теория вероятности/§4 Геометрические вероятности.md",
     "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md",
-    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
     "Pasted image 20230810105753.png",
     "Obsidian/Глава 1. Случайные события и их вероятности.md",
     "Pasted image 20230810095647.png",
@@ -191,13 +209,9 @@
     "Pasted image 20230810090939.png",
     "Pasted image 20230810090844.png",
     "Pasted image 20230810090439.png",
-    "Pasted image 20230810090108.png",
-    "Pasted image 20230810085850.png",
-    "Pasted image 20230810085748.png",
     "Obsidian/Глава 2. Последовательность независимых испытаний..md",
     "Obsidian/§7. Условная вероятность и простейшие основные формулы.md",
     "Obsidian/§5. О статистической оценке  неизвестной вероятности.md",
-    "Pasted image 20230809164705.png",
     "Obsidian/§1. Интуитивные представления о случайных событиях.md",
     "Obsidian/Теория вероятности/Коллоквиум 1 тервер.md",
     "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
@@ -216,7 +230,6 @@
     "Билеты на тройку комиссия Матан.md",
     "Матрица Якоби.md",
     "Переход к сферическим координатам.md",
-    "Открытое множество.md",
     "Кр1 тч Попов  М. А..pdf",
     "Теория вероятностей"
   ]
