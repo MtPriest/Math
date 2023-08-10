@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b31365955ea7597d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Теория вероятности/§4 Геометрические вероятности.md",
+                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Теория вероятности/§4 Геометрические вероятности.md",
+                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Теория вероятности/§4 Геометрические вероятности.md"
+                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md"
               }
             }
           },
@@ -178,9 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b978043551877c2",
+  "active": "b31365955ea7597d",
   "lastOpenFiles": [
     "Obsidian/Глава 1. Случайные события и их вероятности.md",
+    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
     "Obsidian/Теория вероятности/§4 Геометрические вероятности.md",
     "Pasted image 20230810095647.png",
     "Pasted image 20230810095616.png",
