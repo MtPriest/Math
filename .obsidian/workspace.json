@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9c425bbdfefb3ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Теория вероятности/§12 Применения интегральной теоремы Муавра—Лапласа.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8f84b9a63b74b165",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
+                "file": "Obsidian/Теория вероятности/§12 Применения интегральной теоремы Муавра—Лапласа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
+                "file": "Obsidian/Теория вероятности/§12 Применения интегральной теоремы Муавра—Лапласа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md"
+                "file": "Obsidian/Теория вероятности/§12 Применения интегральной теоремы Муавра—Лапласа.md"
               }
             }
           },
@@ -179,12 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b978043551877c2",
+  "active": "9c425bbdfefb3ba6",
   "lastOpenFiles": [
+    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
+    "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
+    "Obsidian/Теория вероятности/§12 Применения интегральной теоремы Муавра—Лапласа.md",
     "Obsidian/Глава 2. Последовательность независимых испытаний..md",
     "Obsidian/Глава 1. Случайные события и их вероятности.md",
-    "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
-    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
     "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
     "Pasted image 20230810150331.png",
     "Pasted image 20230810150248.png",
