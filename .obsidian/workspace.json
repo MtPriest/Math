@@ -26,28 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c77cde25b9dc2163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8f84b9a63b74b165",
@@ -191,30 +179,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c77cde25b9dc2163",
+  "active": "5b978043551877c2",
   "lastOpenFiles": [
+    "Obsidian/Глава 2. Последовательность независимых испытаний..md",
+    "Obsidian/Глава 1. Случайные события и их вероятности.md",
+    "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
+    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
+    "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
     "Pasted image 20230810150331.png",
     "Pasted image 20230810150248.png",
     "Pasted image 20230810150152.png",
     "Pasted image 20230810150112.png",
     "Pasted image 20230810150016.png",
-    "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
-    "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
     "Obsidian/Теория вероятности/§4 Геометрические вероятности.md",
     "Obsidian/Теория вероятности/§2 Поле событий. Классическое определение вероятности.md",
     "Pasted image 20230810105753.png",
-    "Obsidian/Глава 1. Случайные события и их вероятности.md",
     "Pasted image 20230810095647.png",
     "Pasted image 20230810095616.png",
     "Pasted image 20230810090939.png",
     "Pasted image 20230810090844.png",
-    "Pasted image 20230810090439.png",
-    "Obsidian/Глава 2. Последовательность независимых испытаний..md",
     "Obsidian/§7. Условная вероятность и простейшие основные формулы.md",
     "Obsidian/§5. О статистической оценке  неизвестной вероятности.md",
     "Obsidian/§1. Интуитивные представления о случайных событиях.md",
     "Obsidian/Теория вероятности/Коллоквиум 1 тервер.md",
-    "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
     "Obsidian/§1 Интуитивные представления о случайных событиях.md",
     "Без названия 1.md",
     "Obsidian/Глава 1 Случайные события и их вероятности.md",
