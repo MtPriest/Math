@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Глава 3..md",
-                "mode": "preview",
+                "file": "Obsidian/Теория вероятности/§18 Основные свойства функций распределения.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "8f84b9a63b74b165",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Глава 3..md",
+                "file": "Obsidian/Теория вероятности/§18 Основные свойства функций распределения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Глава 3..md",
+                "file": "Obsidian/Теория вероятности/§18 Основные свойства функций распределения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Глава 3..md"
+                "file": "Obsidian/Теория вероятности/§18 Основные свойства функций распределения.md"
               }
             }
           },
@@ -166,20 +167,21 @@
   },
   "active": "00f15b68ad105987",
   "lastOpenFiles": [
-    "Obsidian/§9. Вводные замечания.md",
+    "Obsidian/Глава 3..md",
+    "Obsidian/Глава 2. Последовательность независимых испытаний..md",
+    "Obsidian/Глава 1. Случайные события и их вероятности.md",
     "Obsidian/§11. Интегральная предельная теорема.md",
+    "Obsidian/§9. Вводные замечания.md",
     "Obsidian/Теория вероятности/§18 Основные свойства функций распределения.md",
     "Obsidian/Изображения/Pasted image 20230812165306.png",
     "Obsidian/Изображения/Pasted image 20230812164802.png",
     "Obsidian/Изображения/Pasted image 20230812164710.png",
-    "Obsidian/Глава 3..md",
     "Pasted image 20230812205052.png",
     "Pasted image 20230812202853.png",
     "Pasted image 20230812200159.png",
     "Obsidian/Теория вероятности/§16 Матрица перехода.md",
     "Obsidian/Templates/Шаблон Матана.md",
     "Obsidian/Теория вероятности/Коллоквиум 1 тервер.md",
-    "Obsidian/Глава 2. Последовательность независимых испытаний..md",
     "Pasted image 20230812192348.png",
     "Pasted image 20230812192258.png",
     "Obsidian/Теория вероятности/§14 Иллюстрация схемы независимых испытаний.md",
@@ -187,7 +189,6 @@
     "Pasted image 20230810210642.png",
     "Pasted image 20230810205556.png",
     "Obsidian/Теория вероятности/§10 Локальная предельная теорема.md",
-    "Obsidian/Глава 1. Случайные события и их вероятности.md",
     "Obsidian/Теория вероятности/§6 Аксиоматическое построение теории вероятностей.md",
     "Obsidian/Курс теории вероятностей - Борис Владимирович Гнеденко.md",
     "Obsidian/Теория вероятности/§4 Геометрические вероятности.md",
