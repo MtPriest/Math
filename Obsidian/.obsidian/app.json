@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "fileSortOrder": "byModifiedTime",
   "promptDelete": false,
-  "livePreview": false,
+  "livePreview": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
